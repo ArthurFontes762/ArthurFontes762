@@ -5,7 +5,7 @@ ENG: Welcome to my GitHub profile, my name is Arthur de Moura Fontes, I'm 25 yea
 PT-BR: Seja bem vindo ao meu perfil do GitHub, me chamo Arthur de Moura Fontes, tenho 25 anos, sou aluno da Proz Educação da cidade de Juiz de Fora, Minas Gerais, Brasil e estou aprendendo sobre programação em geral, fundamentos e práticas dos mesmos.
 
 <div align="center">
-  <a href="https://github.com/brunodg">
+  <a href="https://github.com/ArthurFontes762">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodg&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
