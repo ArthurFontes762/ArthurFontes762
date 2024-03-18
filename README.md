@@ -11,7 +11,7 @@ PT-BR: Seja bem vindo ao meu perfil do GitHub, me chamo Arthur de Moura Fontes, 
 </div>
 
 
-- 😄 Pronouns: He/Him
+### 😄 Pronouns: He/Him
 
 <!--
 **ArthurFontes762/ArthurFontes762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
