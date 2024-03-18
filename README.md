@@ -12,6 +12,10 @@ PT-BR: Seja bem vindo ao meu perfil do GitHub, me chamo Arthur de Moura Fontes, 
 
 
 ### 😄 Pronouns: He/Him
+### 🌱 I’m currently learning Systems Development
+
+- :mailbox: How to find me:
+  - :office: [Linkedin](linkedin.com/in/arthur-de-moura-fontes/)
 
 <!--
 **ArthurFontes762/ArthurFontes762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
