@@ -19,7 +19,7 @@ PT-BR: Seja bem vindo ao meu perfil do GitHub, me chamo Arthur de Moura Fontes, 
 
 ### 🤔 Ongoing projects
 
-<a target="_blank" href="https://github.com/ArthurFontes762/ShiandeGames-Moralizadas"><img src="https://github.com/ArthurFontes762/ShiandeGames-Moralizadas" alt="Ongoing projects 0">
+<a target="_blank" href="https://github.com/ArthurFontes762/ShiandeGames-Moralizadas">
 <a target="_blank" href="https://github.com/BrunoDG/Moralizada_ShiandeGames"><img src="https://github.com/BrunoDG/Moralizada_ShiandeGames" alt="Ongoing projects 1">
 
 <!--
