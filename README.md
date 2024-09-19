@@ -19,7 +19,7 @@ PT-BR: Seja bem vindo ao meu perfil do GitHub, me chamo Arthur de Moura Fontes, 
  
 ### 😌 Finished Projects
 
-- <a target="_blank" href="https://arthurfontes762.github.io/Sonic-Memory-Game-JavaScript-2024_08_29/"><img src="logo.png" height="250" width="500" alt="Sonic Memory Game">
+- <a target="_blank" href="https://arthurfontes762.github.io/Sonic-Memory-Game-JavaScript-2024_08_29/"><img src="logo.png" height="125" width="250" alt="Sonic Memory Game">
 
 ### 🤔 Ongoing projects
 
