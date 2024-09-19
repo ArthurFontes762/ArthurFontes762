@@ -4,10 +4,6 @@ ENG: Welcome to my GitHub profile, my name is Arthur de Moura Fontes, I'm 25 yea
 
 PT-BR: Seja bem vindo ao meu perfil do GitHub, me chamo Arthur de Moura Fontes, tenho 25 anos, sou aluno da Proz Educação da cidade de Juiz de Fora, Minas Gerais, Brasil e estou aprendendo sobre programação em geral, fundamentos e práticas dos mesmos.
 
-<h1 align="center"> Play the Sonic Memory Game </h1>
-
-<p align="center"><img src="logo.png" link="https://arthurfontes762.github.io/Sonic-Memory-Game-JavaScript-2024_08_29/" alt="Image" height="250" width="500"/></p>
-
 <div align="center">
   <a href="https://github.com/ArthurFontes762">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurFontes762&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -20,6 +16,10 @@ PT-BR: Seja bem vindo ao meu perfil do GitHub, me chamo Arthur de Moura Fontes, 
 
 - :mailbox: How to find me:
   - :office: [Linkedin](linkedin.com/in/arthur-de-moura-fontes/)
+ 
+### 😌 Finished Projects
+
+- <a Sonic Memory Game href="https://arthurfontes762.github.io/Sonic-Memory-Game-JavaScript-2024_08_29/">
 
 ### 🤔 Ongoing projects
 
