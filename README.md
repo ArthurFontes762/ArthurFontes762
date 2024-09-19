@@ -6,7 +6,7 @@ PT-BR: Seja bem vindo ao meu perfil do GitHub, me chamo Arthur de Moura Fontes, 
 
 <h1 align="center"> Play the Sonic Memory Game </h1>
 
-<p align="center"><img src="logo.png" src="https://arthurfontes762.github.io/Sonic-Memory-Game-JavaScript-2024_08_29/" alt="Image" height="250" width="500"/></p>
+<p align="center"><img src="logo.png" link="https://arthurfontes762.github.io/Sonic-Memory-Game-JavaScript-2024_08_29/" alt="Image" height="250" width="500"/></p>
 
 <div align="center">
   <a href="https://github.com/ArthurFontes762">
