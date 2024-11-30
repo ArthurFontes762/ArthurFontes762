@@ -23,7 +23,7 @@ PT-BR: Seja bem vindo ao meu perfil do GitHub, me chamo Arthur de Moura Fontes, 
 <p align="left"><a target="_blank" href="https://arthurfontes762.github.io/Sonic-Memory-Game-JavaScript-2024_08_29/"><img src="Sonic Memory Game.png" height="125" width="250" alt="Sonic Memory Game">
 
 - 2: Pokémon Database Search
-<p align="left"><a target="_blank" href="https://arthurfontes762.github.io/PokeAPI-PokemonTCG-Simple-Search-JavaScript-2024_11_05/"><img src="Pokémon Database Search.png" height="125" width="500" alt="Sonic Memory Game">
+<p align="left"><a target="_blank" href="https://arthurfontes762.github.io/PokeAPI-PokemonTCG-Simple-Search-JavaScript-2024_11_05/"><img src="Pokémon Database Search.png" height="125" width="375" alt="Sonic Memory Game">
 
 ### 🤔 Ongoing projects
 
