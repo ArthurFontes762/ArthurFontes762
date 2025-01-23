@@ -1,8 +1,8 @@
 ### Hi there / Olá 👋
 
-ENG: Welcome to my GitHub profile, my name is Arthur de Moura Fontes, I'm 25 years old, I'm a student at Proz Educação in the city of Juiz de Fora, Minas Gerais, Brazil and I'm learning about programming in general, its fundamentals and practices.
+ENG: Welcome to my GitHub profile, my name is Arthur de Moura Fontes, I'm 26 years old, I'm a student at Proz Educação in the city of Juiz de Fora, Minas Gerais, Brazil and I'm learning about programming in general, its fundamentals and practices.
 
-PT-BR: Seja bem vindo ao meu perfil do GitHub, me chamo Arthur de Moura Fontes, tenho 25 anos, sou aluno da Proz Educação da cidade de Juiz de Fora, Minas Gerais, Brasil e estou aprendendo sobre programação em geral, fundamentos e práticas dos mesmos.
+PT-BR: Seja bem vindo ao meu perfil do GitHub, me chamo Arthur de Moura Fontes, tenho 26 anos, sou aluno da Proz Educação da cidade de Juiz de Fora, Minas Gerais, Brasil e estou aprendendo sobre programação em geral, fundamentos e práticas dos mesmos.
 
 <div align="center">
   <a href="https://github.com/ArthurFontes762">
